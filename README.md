@@ -17,7 +17,7 @@ A sleek, responsive Admin Dashboard built with **React**, **TailwindCSS**, **Fra
 #### 🖼️ Screenshot
 > Stored in `src/pages_screenshots/overview-page.png`
 
-![Overview Page](./src/pages_screenshots/overview-page.png)
+![Overview Page](./src/pages_screenshots/OverviewPage.png)
 
 ---
 
