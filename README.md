@@ -15,9 +15,11 @@ A sleek, responsive Admin Dashboard built with **React**, **TailwindCSS**, **Fra
 - 💻 Fully responsive layout using TailwindCSS
 
 #### 🖼️ Screenshot
-> Stored in `src/pages_screenshots/overview-page.png`
 
+##  Overview Page
 ![Overview Page](./src/pages_screenshots/OverviewPage.png)
+
+##  Products Page
 ![Products Page](./src/pages_screenshots/ProductsPage.png)
 
 ---
