@@ -1,3 +1,4 @@
+
 # 📊 React Admin Dashboard
 
 A sleek, responsive Admin Dashboard built with **React**, **TailwindCSS**, **Framer Motion**, and **Recharts**. The dashboard is currently under development, with the **Overview Page** completed and the remaining pages in the Sidebar planned for implementation.
@@ -14,9 +15,9 @@ A sleek, responsive Admin Dashboard built with **React**, **TailwindCSS**, **Fra
 - 💻 Fully responsive layout using TailwindCSS
 
 #### 🖼️ Screenshot
-> Add this image to a `screenshots` folder
+> Stored in `src/pages_screenshots/overview-page.png`
 
-![Overview Page](./screenshots/overview-page.png)
+![Overview Page](./src/pages_screenshots/OverviewPage.png)
 
 ---
 
@@ -65,9 +66,11 @@ npm install
 
 # Start the development server
 npm run dev
+```
 
 ---
 
 ## 👨‍💻 Author
 
 Built with ❤️ by **MrZondi**
+
